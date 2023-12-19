@@ -1,0 +1,325 @@
+#NukMundTeVihet
+{
+     background-color: #830E0E;
+     width: 11px;
+     height: 14px;
+     border-color: #000000;
+     border-style: solid;
+     border-width: 2px;
+     margin: 2px;
+}
+#LejohetTeke
+{
+     background-color: #2E830F;
+     width: 11px;
+     height: 14px;
+     border-color: #6B6B6B;
+     border-style: solid;
+     border-width: 2px;
+     margin: 2px;
+}
+#LegjendaNdeshjet
+{
+     border-width: 1px;
+     border-color: #000000;
+     border-style: solid;
+     background-color: #BED1D7;
+     color: #010101;
+}
+#Dummy
+{
+     background-color: #0D8DFF;
+}
+.koka
+{
+     font-size: x-small;
+     font-family: Verdana, Arial, Helvetica, sans-serif;
+     font-weight: bold;
+}
+.nenkoka
+{
+     font-family: Verdana, Arial, Helvetica, sans-serif;
+     font-size: xx-small;
+}
+.shenim
+{
+     font-family: Verdana, Arial, Helvetica, sans-serif;
+     font-size: x-small;
+     color: #FFFFFF;
+     text-decoration: none;
+}
+.login_tabela
+{
+     margin-top: 40px;
+     margin-left: 10px;
+     font-size: x-small;
+     font-family: Verdana, Arial, Helvetica, sans-serif;
+     font-weight: bold;
+     color: #FFFFFF;
+}
+.login_koka
+{
+     font-family: Verdana, Arial, Helvetica, sans-serif;
+     font-size: medium;
+     font-weight: bold;
+     color: #FFFFFF;
+     text-decoration: none;
+}
+BODY
+{
+     font-family: Verdana, Arial, Helvetica, sans-serif;
+     font-size: x-small;
+     color: #FFFFFF;
+     text-decoration: none;
+     background-image: url(images/bg.png);
+     background-color: #000000;
+}
+HTML
+{
+     scrollbar-arrow-color: #C3C3C3;
+     scrollbar-3d-light-color: #8D8D8D;
+     scrollbar-base-color: #635E5E;
+     scrollbar-dark-shadow-color: #292929;
+     scrollbar-face-color: #454545;
+     scrollbar-highlight-color: #818181;
+     scrollbar-shadow-color: #717171;
+     scrollbar-track-color: #7D7D7D;
+}
+#mesazhi_prisni
+{
+     font-size: large;
+     font-weight: bold;
+     margin-top: 166px;
+     border-color: #FFFFFF;
+     border-style: solid;
+     height: 100px;
+     padding-top: 75px;
+}
+
+#hdr_info
+{
+     font-family: Verdana, Arial, Helvetica, sans-serif;
+     font-size: x-small;
+     color: #FFFFFF;
+     text-decoration: none;
+     position: absolute;
+     width: 265px;
+     height: 51px;
+     z-index: 2;
+     left: 5px;
+     top: 5px;
+}
+#hdr_menu_edge
+{
+     background-image: url(images/lightedge.png);
+     background-color: #000000;
+     position: absolute;
+     width: 740px;
+     height: 20px;
+     z-index: 1;
+     left: 0px;
+     top: 60px;
+}
+#hdr_body
+{
+     background-image: url(images/lightbg.png);
+     background-color: #000000;
+}
+SELECT
+{
+     font-family: Verdana, Arial, Helvetica, sans-serif;
+     font-size: x-small;
+     border-width: 1px;
+     border-style: solid;
+     border-color: #CCCCCC;
+     background-color: #FFFFFF;
+     margin: 1px;
+}
+INPUT
+{
+     font-family: Verdana, Arial, Helvetica, sans-serif;
+     font-size: 9pt;
+     border-width: 1px;
+     border-style: solid;
+     border-color: #CCCCCC;
+     background-color: #FFFFFF;
+     margin: 1px;
+     padding: 1px;
+}
+.tabela_lojrave1
+{
+     font-family: Verdana, Arial, Helvetica, sans-serif;
+     font-size: x-small;
+     color: #010101;
+     text-decoration: none;
+     background-color: #FFCC00;
+}
+.tabela_lojrave2
+{
+     font-family: Verdana, Arial, Helvetica, sans-serif;
+     font-size: x-small;
+     color: #333333;
+     text-decoration: none;
+     background-color: #FFCC00;
+}
+A
+{
+     font-family: Verdana, Arial, Helvetica, sans-serif;
+     font-size: x-small;
+     color: #99FFFF;
+     text-decoration: none;
+}
+A:link
+{
+     font-family: Verdana, Arial, Helvetica, sans-serif;
+     font-size: x-small;
+     color: #FFFBCC;
+     text-decoration: none;
+}
+A:visited
+{
+     font-family: Verdana, Arial, Helvetica, sans-serif;
+     font-size: x-small;
+     color: #333333;
+     text-decoration: none;
+}
+A:hover
+{
+     font-family: Verdana, Arial, Helvetica, sans-serif;
+     font-size: x-small;
+     color: #FF0000;
+     text-decoration: none;
+}
+A:active
+{
+     font-family: Verdana, Arial, Helvetica, sans-serif;
+     font-size: x-small;
+     color: #FF4444;
+     text-decoration: none;
+}
+.joaktive
+{
+     background-color: #990000;
+}
+.ndeshjet_lista
+{
+     font-family: Verdana, Arial, Helvetica, sans-serif;
+     font-size: x-small;
+     color: #FFFFFF;
+     text-decoration: none;
+}
+#row_on
+{
+     background-color: #AAAAAA;
+}
+#row_off
+{
+     background-color: #888888;
+}
+#spacer
+{
+     width: 1px;
+     height: 500px;
+}
+#unfinished_ticket
+{
+     background-color: #006699;
+}
+#unfinished_ticket A:link
+{
+     color: #11AA33;
+}
+#unfinished_ticket A:visited
+{
+     color: #66CCFF;
+}
+#unfinished_ticket A:hover
+{
+     color: #88FFFF;
+}
+#unfinished_ticket A:active
+{
+     color: #88FFFF;
+}
+#ticketrow
+{
+     background-color: #66CCFF;
+     color: #000000;
+}
+#tickethdr
+{
+     background-color: #49589C;
+}
+#kerkimi
+{
+     background-color: #9999CC;
+     width: 200px;
+     height: 65px;
+/*padding-bottom: 5px;*/
+}
+#anullimi
+{
+     background-color: #666666;
+     width: 200px;
+     height: 65px;
+/*padding-bottom: 5px;*/
+}
+#daily_message
+{
+     background-color: #666666;
+     border-color: #66CCFF;
+     border-style: solid;
+     border-width: 1px;
+     font-weight: bold;
+     padding: 5px;
+     margin-left: 50px;
+     margin-top: 20px;
+     margin-right: 50px;
+}
+#skedina_adm
+{
+/*     background-color: #333333; */
+     border-color: #ffffff;
+     border-style: groove;
+     border-width: 2px;
+     font-weight: normal;
+     font-size: 13px;
+     text-transform: uppercase;
+     padding: 5px;
+     margin: 5px;
+     width: 280px;
+}
+#skedina_adm A:link
+{
+     color: #000000;
+     font-size: 14px;
+}
+#skedina_adm A:hover
+{
+     color: #FFFFFF;
+     font-size: 14px;
+}
+#skedina_adm A:visited
+{
+     color: #000000;
+     font-size: 14px;
+}
+#skedina_adm A:active
+{
+     color: #000000;
+     font-size: 14px;
+}
+#skedina_adm_tab TD
+{
+     background-color: #999999;
+}
+#mesazhe_skedine A:link
+{
+     color: #FFFF00;
+}
+#mesazhe_skedine
+{
+     font-weight: bold;
+     font-size: medium;
+     color: #FF0000;
+}

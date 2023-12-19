@@ -1,0 +1,33 @@
+BODY {
+     font-family: Verdana, Arial, Helvetica, sans-serif;
+      font-size:13px;
+     color: #FFFFFF;
+     text-decoration: none;
+     background-image: url(images/bg.png);
+     background-color: #000000;
+      margin-left: 24px;
+}
+
+SELECT {
+     font-family: Verdana, Arial, Helvetica, sans-serif;
+     font-size: smaller;
+     border-width: 1px;
+     border-style: solid;
+     border-color: #CCCCCC;
+     background-color: #FFFFFF;
+     margin: 1px;
+}
+
+INPUT {
+     font-family: Verdana, Arial, Helvetica, sans-serif;
+     font-size: smaller;
+     border-width: 1px;
+     border-style: solid;
+     border-color: #CCCCCC;
+     background-color: #FFFFFF;
+     margin: 1px;
+}
+
+#mesazhe_skedine {
+     display: none;
+}
